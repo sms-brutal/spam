@@ -1,11 +1,47 @@
-$ pkg update && pkg upgrade
-$ pkg install git
-$ pkg install python
-$ pip2 install requests
-$ git clone https://github.com/sms-brutal/spam
+# MDSpammers
+Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
+# Spam available
+```
+- asakita
+- sunchilla 
+- nutriclub
+- asani
+- wintershop
+- datesy
+- thaifriendly
+- jumpstart
+- kinimart
+- klikwa
+- bakmikeraton
+- kopidulukala
+- kredinesia
+- pinjamindo
+- uangpintar
+- danafix
+- maucash 
+- omamoriexpress
+- danacepat
+- cairin
+- kredito
+- kreditpedia
+- bocil
+- duitqu
+- primacash
+- temanprima
+- maripinjam
+- sobatbangun
+```
+# Requirements
+```
+requests
+```
+# Installation
+```
+$ apt update && apt upgrade
+$ pkg update;pkg install python2
+$ git clone https://github.com/sms-brutal/spam
 $ cd spam
-$ python2 main.py
-
-# Only Indonesian
-
-© Copyright Kingtebe 2021
+$ pip2 install requests
+$ python2 main.py
+```
+Ketik ```git pull``` untuk mengupdate script
