@@ -1,4 +1,4 @@
-# MDSpammers
+# SPAM SMS BRUTAL
 Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
 # Spam available
 ```
